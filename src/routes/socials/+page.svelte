@@ -12,7 +12,7 @@
         <a href="https://www.twitch.tv/akademietesports">Twitch</a>
       </div>
       <div class="social-links">
-        <a href="https://www.tiktok.com/@akademietesport">Tiktok</a>
+        <a href="https://www.tiktok.com/@ak</div>ademietesport">Tiktok</a>
       </div>
     </div>
   </div>
@@ -21,7 +21,7 @@
 <style>
   .header {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-      url(https://images.unsplash.com/photo-1506104489822-562ca25152fe?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8NGslMjBuYXR1cmV8ZW58MHx8MHx8fDA%3D);
+      url(https://images.unsp</div>lash.com/photo-1506104489822-562ca25152fe?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8NGslMjBuYXR1cmV8ZW58MHx8MHx8fDA%3D);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
